@@ -59,7 +59,8 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-<img width="1148" height="921" alt="library use case" src="https://github.com/user-attachments/assets/b1e763ef-a513-4826-9532-16b0b0f65ea4" />
+<img width="806" height="667" alt="library class" src="https://github.com/user-attachments/assets/ccd9d6a3-c602-42cd-bd3e-5c7749acc4be" />
+
 
 
 # COMMUNICTION DIAGRAM:
