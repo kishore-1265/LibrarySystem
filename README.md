@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040192
+# Name: Kishore R
+# Date: 20-11-2026
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1148" height="921" alt="library use case" src="https://github.com/user-attachments/assets/6cc3d7a1-9178-46b0-a1ed-0fba065ec4fa" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1148" height="921" alt="library use case" src="https://github.com/user-attachments/assets/b1e763ef-a513-4826-9532-16b0b0f65ea4" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1236" height="895" alt="library communication" src="https://github.com/user-attachments/assets/1d3a6ab3-9e43-4194-aa2e-ddf597dc0141" />
 
 
 # PACKAGE DIAGRAM:
@@ -78,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1213" height="940" alt="library package" src="https://github.com/user-attachments/assets/3cede21e-bf8e-4478-9b05-c2f2ac537557" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1158" height="916" alt="library activity" src="https://github.com/user-attachments/assets/1f8e39ac-38d6-40c4-90e5-07d51f96ea92" />
 
 
 
@@ -116,6 +121,8 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+
+<img width="880" height="756" alt="library sequence" src="https://github.com/user-attachments/assets/47ada2ec-d7a2-4810-9c5d-f3c129a162a9" />
 
 
 
